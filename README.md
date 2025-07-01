@@ -1,31 +1,97 @@
-<h1 align="center">Hi 👋, I'm Krishanu Bandyopadhyay</h1>
-<h3 align="center">A tech bird learning the connection between Ai and Hardware</h3>
+# 👋 Hi, I'm Krishanu Bandyopadhyay                 ![Profile views](https://komarev.com/ghpvc/?username=Krishanu-007&label=Profile%20views&color=0e75b6&style=flat)
+🎓 VLSI & Embedded Systems Engineer | 🔬 Digital & Mixed-Signal Design | 📐 RTL to GDSII Workflow Enthusiast
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=krishanu-007&label=Profile%20views&color=0e75b6&style=flat" alt="krishanu-007" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=krishanu-007" alt="krishanu-007" /></a> </p>
-
-- 🔭 I’m currently working on **GPS based Anti Collision System**
-
-- 🌱 I’m currently learning **OpenCV, YOLO**
-
-- 👯 I’m looking to collaborate on [Obstacle Avoidance](https://github.com/Krishanu-007/Obstacle-Avoidance.git)
-
-- 📫 How to reach me **kbandyopadhyay2792@gmail.com**
-
-- ⚡ Fun fact **I am still learning the GitHub Interface**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/krishanu bandyopadhyay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="krishanu bandyopadhyay" height="30" width="40" /></a>
-<a href="https://instagram.com/krisxhanu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="krisxhanu" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXQ5dnRlc2diemUxNHo2ZzFkbThqYjh4eWtlMGZzaXI4cmpqbGJmMyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/MUlmRFnTQxwJ2/giphy.gif" width="600" alt="VLSI GIF">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=krishanu-007&show_icons=true&locale=en&layout=compact" alt="krishanu-007" /></p>
+### 👨‍💻 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=krishanu-007&show_icons=true&locale=en" alt="krishanu-007" /></p>
+I'm an aspiring VLSI and Embedded Systems enthusiast with hands-on experience across the full design flow — from **Register Transfer Level (RTL)** design to **physical layout (GDSII)** and embedded firmware development. I am passionate about designing efficient hardware systems and contributing to the open-source silicon ecosystem.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=krishanu-007&" alt="krishanu-007" /></p>
+- 🧠 RTL design and simulation using- **Verilog**, **SystemVerilog**, and **Yosys**
+- 🧪 ASIC design using- **OpenLane**, **OpenROAD**, **Xschem**, **Magic**, and **Netgen** with **Sky130 PDK**
+- 💻 Architectural depths in- **AVR**, **ARMv7**, and **RISC-V** microarchitectures
+- 🔩 FPGA prototyping using **iCE40HX8K**, **arachne-pnr**, and **nextpnr**
+- 📡 Experience in **Microwave filter design** using **Keysight ADS**
+- 🔬 Strong foundation in Digital Logic, Computer Architecture, and Physical Design Methodologies
+
+---
+### 🧰 Toolchain & Environment
+
+- **Simulators**: Ngspice, GTKWave  
+- **Layout Tools**: Magic, KLayout  
+- **Synthesis/PD Tools**: OpenLane, OpenROAD, Yosys, Netgen  
+- **PCB Design**: KiCad, Eagle  
+- **Microcontrollers**: ATTiny, STM32, AVR, 8051  
+- **Languages**: Verilog, SystemVerilog, Embedded C, Assembly, Rust  
+- **FPGA Tools**: IceStorm, arachne-pnr, nextpnr, TinyFPGA BX toolchain
+
+-----
+### 🛰️ Hardware Platforms I’ve Worked On
+
+- 🧩 Lattice iCE40HX8K FPGA (CB132)
+- 📟 ATTiny204, ATmega328P (AVR), Xtensa LX6 (ESP32 DevKit v1)
+- 🎮 STM32F103 Blue Pill (Cortex-M3)
+- 📡 Custom microstrip filters on 9.9 Er substrates
+
+-------
+### 🧭 Areas of Focus
+
+- ✔️ Digital and Mixed-Signal VLSI Design  
+- ✔️ RTL-to-GDSII using Open-Source Tools  
+- ✔️ FPGA-Based Prototyping  
+- ✔️ RISC-V Architecture and Custom Accelerators  
+- ✔️ Embedded Firmware Development (C, Assembly)  
+- ✔️ Microwave Filter Design and RF Layout
+
+---
+### 🌱 Currently Exploring
+
+- Physical Verification with Calibre and DRC/LVS techniques
+- High-level synthesis (HLS) to Verilog flow
+- Rust-based bare-metal embedded systems
+- Custom ISA extensions in RISC-V cores
+----
+### 🔬 Featured Projects
+- 🧠 4-stage pipelined RISC-V core with DFT hardware accelerator.[upcoming future work]
+- 🧮 16-bit ALU implemented using RTL-to-GDS flow via OpenLane and Sky130. [currently working]     
+- 📡  Stub-loaded resonator filter designed for 3.825 GHz using keysight ADS
+
+---
+### 🤝 Open to Collaborate On:
+
+- VLSI design & verification (Verilog/SystemVerilog)
+- RTL-to-GDSII projects using OpenLane/OpenROAD
+- RISC-V architecture extensions
+- Embedded systems, robotics, and real-time firmware
+
+---
+
+### 📫 Let's Connect
+
+- 🌐 Portfolio: *Coming Soon*
+- 🔗 [LinkedIn](www.linkedin.com/in/k-bandyopadhyay)
+- 💻 [GitHub](https://github.com/Krishanu-007)
+- ✉️ Email: *kbandyopadhyay2792@gmail.com*
+
+---
+
+### 💬 Quote
+
+> *"Design is not just about functionality—it's about precision, reliability, and innovation in silicon."*
+
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Krishanu-007&show_icons=true&theme=github_dark&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Krishanu-007&theme=github-dark&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Krishanu-007&theme=github-compact" />
+</p>
