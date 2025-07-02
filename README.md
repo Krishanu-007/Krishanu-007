@@ -25,7 +25,7 @@ I'm an aspiring VLSI and Embedded Systems enthusiast with hands-on experience ac
 - **Synthesis/PD Tools**: OpenLane, OpenROAD, Yosys, Netgen  
 - **PCB Design**: KiCad, Eagle  
 - **Microcontrollers**: ATTiny, STM32, AVR, 8051  
-- **Languages**: Verilog, SystemVerilog, Embedded C, Assembly, Rust  
+- **Languages**: Verilog, SystemVerilog, Embedded C, Assembly, Rust, C, C++  
 - **FPGA Tools**: IceStorm, arachne-pnr, nextpnr, TinyFPGA BX toolchain
 
 -----
