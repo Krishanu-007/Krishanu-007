@@ -70,8 +70,6 @@ I'm an aspiring VLSI and Embedded Systems enthusiast with hands-on experience ac
 ---
 
 ### 📫 Let's Connect
-
-- 🌐 Portfolio: *Coming Soon*
 - 🔗 [LinkedIn](www.linkedin.com/in/k-bandyopadhyay)
 - 💻 [GitHub](https://github.com/Krishanu-007)
 - ✉️ Email: *kbandyopadhyay2792@gmail.com*
