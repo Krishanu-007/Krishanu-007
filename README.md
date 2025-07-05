@@ -90,6 +90,3 @@ I'm an aspiring VLSI and Embedded Systems enthusiast with hands-on experience ac
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Krishanu-007&theme=github-dark&hide_border=true" width="48%" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Krishanu-007&theme=github-compact" />
-</p>
