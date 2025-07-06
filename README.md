@@ -26,7 +26,7 @@ I'm an aspiring VLSI and Embedded Systems enthusiast with hands-on experience ac
 - **PCB Design**: KiCad, Eagle  
 - **Microcontrollers**: ATTiny, STM32, AVR, 8051  
 - **Languages**: Verilog, SystemVerilog, Embedded C, Assembly, Rust, C, C++  
-- **FPGA Tools**: IceStorm, arachne-pnr, nextpnr, TinyFPGA BX toolchain
+- **FPGA Tools**: IceStorm, arachne-pnr, nextpnr toolchain
 
 -----
 ### 🛰️ Hardware Platforms I’ve Worked On
