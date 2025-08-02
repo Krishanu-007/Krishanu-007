@@ -1,14 +1,13 @@
 # 👋 Hi, I'm Krishanu Bandyopadhyay                 ![Profile views](https://komarev.com/ghpvc/?username=Krishanu-007&label=Profile%20views&color=0e75b6&style=flat)
-🎓 VLSI & Embedded Systems Engineer | 🔬 Digital & Mixed-Signal Design | 📐 RTL to GDSII Workflow Enthusiast
+### 👨‍💻 About Me
+
+I'm a self-taught open-source toolchain based VLSI and Embedded Systems enthusiast with hands-on experience across the full design flow — from **Register Transfer Level (RTL)** design to **physical layout (GDSII)** and embedded firmware development. I am passionate about designing efficient hardware systems and contributing to the open-source silicon ecosystem.
 
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTAxcG93Z2pqeDZodHh0eW5temh3dmR2MnR1YWFsbGxpcXB4Z3l0aCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/IcZhFmufozDCij3p22/giphy.gif" width="600" alt="VLSI GIF">
 </p>
 
 
-### 👨‍💻 About Me
-
-I'm a self-taught open-source toolchain based VLSI and Embedded Systems enthusiast with hands-on experience across the full design flow — from **Register Transfer Level (RTL)** design to **physical layout (GDSII)** and embedded firmware development. I am passionate about designing efficient hardware systems and contributing to the open-source silicon ecosystem.
 
 - 🧠 RTL design and simulation using- **Verilog**, **SystemVerilog**, and **Yosys**
 - 🧪 ASIC design using- **OpenLane**, **OpenROAD**, **Xschem**, **Magic**, and **Netgen** with **Sky130 PDK**
@@ -27,15 +26,6 @@ I'm a self-taught open-source toolchain based VLSI and Embedded Systems enthusia
 - **Microcontrollers**: ATTiny, STM32, AVR, 8051  
 - **Languages**: Verilog, SystemVerilog, Embedded C, Assembly, Rust, C, C++  
 - **FPGA Tools**: IceStorm, arachne-pnr, nextpnr toolchain
-
------
-### 🛰️ Hardware Platforms I’ve Worked On
-
-- 🧩 Lattice iCE40HX8K FPGA (CB132)
-- 📟 ATTiny204, ATmega328P (AVR), Xtensa LX6 (ESP32 DevKit v1)
-- 🎮 STM32F103 Blue Pill (Cortex-M3)
-- 📡 Custom microstrip filters on 9.9 Er substrates
-
 -------
 ### 🧭 Areas of Focus
 
