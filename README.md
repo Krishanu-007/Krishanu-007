@@ -8,7 +8,7 @@
 
 ### 👨‍💻 About Me
 
-I'm an aspiring VLSI and Embedded Systems enthusiast with hands-on experience across the full design flow — from **Register Transfer Level (RTL)** design to **physical layout (GDSII)** and embedded firmware development. I am passionate about designing efficient hardware systems and contributing to the open-source silicon ecosystem.
+I'm a self-taught open-source toolchain based VLSI and Embedded Systems enthusiast with hands-on experience across the full design flow — from **Register Transfer Level (RTL)** design to **physical layout (GDSII)** and embedded firmware development. I am passionate about designing efficient hardware systems and contributing to the open-source silicon ecosystem.
 
 - 🧠 RTL design and simulation using- **Verilog**, **SystemVerilog**, and **Yosys**
 - 🧪 ASIC design using- **OpenLane**, **OpenROAD**, **Xschem**, **Magic**, and **Netgen** with **Sky130 PDK**
