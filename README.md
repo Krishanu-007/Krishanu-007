@@ -2,7 +2,7 @@
 🎓 VLSI & Embedded Systems Engineer | 🔬 Digital & Mixed-Signal Design | 📐 RTL to GDSII Workflow Enthusiast
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXQ5dnRlc2diemUxNHo2ZzFkbThqYjh4eWtlMGZzaXI4cmpqbGJmMyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/MUlmRFnTQxwJ2/giphy.gif" width="600" alt="VLSI GIF">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTAxcG93Z2pqeDZodHh0eW5temh3dmR2MnR1YWFsbGxpcXB4Z3l0aCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/IcZhFmufozDCij3p22/giphy.gif" width="600" alt="VLSI GIF">
 </p>
 
 
