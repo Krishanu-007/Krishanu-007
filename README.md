@@ -4,7 +4,7 @@
 I'm a self-taught open-source toolchain based VLSI and Embedded Systems enthusiast with hands-on experience across the full design flow — from **Register Transfer Level (RTL)** design to **physical layout (GDSII)** and embedded firmware development. I am passionate about designing efficient hardware systems and contributing to the open-source silicon ecosystem.
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTAxcG93Z2pqeDZodHh0eW5temh3dmR2MnR1YWFsbGxpcXB4Z3l0aCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/IcZhFmufozDCij3p22/giphy.gif" width="600" alt="VLSI GIF">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXAxdWN3b3Q2YjBtMjlyYzFnaW9ia3htYzZ2cnVlYzkxZWtkcG5iMCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/RkihQ1VnABCtR7dkVR/giphy.gif" width="600" alt="VLSI GIF">
 </p>
 
 
