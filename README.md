@@ -11,7 +11,7 @@ I'm a self-taught open-source toolchain based VLSI and Embedded Systems enthusia
 
 - 🧠 RTL design and simulation using- **Verilog**, **SystemVerilog**, and **Yosys**
 - 🧪 ASIC design using- **OpenLane**, **OpenROAD**, **Xschem**, **Magic**, and **Netgen** with **Sky130 PDK**
-- 💻 Architectural depths in- **AVR**, **ARMv7**, and **RISC-V** microarchitectures
+- 💻 Architectural depths in- **AVR**, and **RISC-V** microarchitectures
 - 🔩 FPGA prototyping using **iCE40HX8K**, **arachne-pnr**, and **nextpnr**
 - 📡 Experience in **Microwave filter design** using **Keysight ADS**
 - 🔬 Strong foundation in Digital Logic, Computer Architecture, and Physical Design Methodologies
@@ -33,15 +33,13 @@ I'm a self-taught open-source toolchain based VLSI and Embedded Systems enthusia
 - ✔️ RTL-to-GDSII using Open-Source Tools  
 - ✔️ FPGA-Based Prototyping  
 - ✔️ RISC-V Architecture and Custom Accelerators  
-- ✔️ Embedded Firmware Development (C, Assembly)  
 - ✔️ Microwave Filter Design and RF Layout
 
 ---
 ### 🌱 Currently Exploring
 
-- Physical Verification with Calibre and DRC/LVS techniques
+- Physical Layout and DRC/LVS techniques
 - High-level synthesis (HLS) to Verilog flow
-- Rust-based bare-metal embedded systems
 - Custom ISA extensions in RISC-V cores
 ----
 ### 🔬 Featured Projects
@@ -53,6 +51,7 @@ I'm a self-taught open-source toolchain based VLSI and Embedded Systems enthusia
 ### 🤝 Open to Collaborate On:
 
 - VLSI design & verification (Verilog/SystemVerilog)
+- Analog designs
 - RTL-to-GDSII projects using OpenLane/OpenROAD
 - RISC-V architecture extensions
 - Embedded systems, robotics, and real-time firmware
