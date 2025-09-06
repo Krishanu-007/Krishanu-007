@@ -24,16 +24,16 @@ I'm a self-taught open-source toolchain based VLSI and Embedded Systems enthusia
 - **Synthesis/PD Tools**: OpenLane, OpenROAD, Yosys, Netgen  
 - **PCB Design**: KiCad, Eagle  
 - **Microcontrollers**: ATTiny, STM32, AVR, 8051  
-- **Languages**: Verilog, SystemVerilog, Embedded C, Assembly, Rust, C, C++  
+- **Languages**: Verilog, Embedded C, Assembly, C, C++  
 - **FPGA Tools**: IceStorm, arachne-pnr, nextpnr toolchain
 -------
 ### 🧭 Areas of Focus
 
-- ✔️ Digital and Mixed-Signal VLSI Design  
+- ✔️ Digital, Analog and Mixed-Signal VLSI Design  
 - ✔️ RTL-to-GDSII using Open-Source Tools  
 - ✔️ FPGA-Based Prototyping  
 - ✔️ RISC-V Architecture and Custom Accelerators  
-- ✔️ Microwave Filter Design and RF Layout
+- ✔️ Microwave and RF Layout
 
 ---
 ### 🌱 Currently Exploring
